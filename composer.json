@@ -9,9 +9,9 @@
         }
     },
     "require": {
-        "illuminate/database": "^5.0 || ^6.0",
-        "illuminate/support": "^5.0 || ^6.0",
-        "doctrine/dbal": "^2.5",
+        "illuminate/database": "^7.0",
+        "illuminate/support": "^7.0",
+        "doctrine/dbal": "^2.10",
         "krlove/code-generator": "^1.0"
     },
     "extra": {
